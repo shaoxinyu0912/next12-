@@ -8,15 +8,19 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "mockjs": "^1.1.0",
     "next": "13.4.19",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },
   "devDependencies": {
+    "@types/mockjs": "^1.0.7",
     "@types/node": "20.6.0",
     "@types/react": "18.2.21",
     "eslint": "^8.49.0",
     "eslint-config-next": "13.4.19",
+    "stylelint": "^15.10.3",
+    "stylelint-config-standard-scss": "^11.0.0",
     "typescript": "5.2.2"
   }
 }
