@@ -1,8 +1,8 @@
-import { NextPage } from 'next'
+import  type { NextPage } from 'next'
 
 const Home:NextPage= () => {
   return (
-    <div>index</div>
+    <div>我是首页</div>
   )
 }
 
